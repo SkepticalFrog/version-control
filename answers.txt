@@ -1,0 +1,9 @@
+2 — La commande nous dit qu'il n'y a aucun commit.
+
+3.2 — La commande nous dit que le fichier est modifié mais que sa version n'est pas trackée par git.
+
+3.4 — La commande nous dit que le fichier est maintenant suivi.
+
+3.6 — La commande nous informe que notre branche a un commit de plus que la branche origin/master.
+
+3.8 — Ici, on voit la liste des commits avec leur date, leur auteur et également le nombre de modifications.
